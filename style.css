@@ -1,0 +1,91 @@
+body{
+    font-family: 'Inter', sans-serif;
+font-family: 'Kalnia', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+.tws{
+    background-color: aqua;
+    color: black;
+    
+    padding: 10px 15px;
+    border-radius: 5px;
+
+}
+.huf-width{
+    width: 40%;
+    float: left;
+    margin: 5px;
+    padding: 2px;
+}
+.huf-width img{
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    
+
+}
+.ftll-page{
+    background-image: url(image/biography-bg.png);
+}
+section{
+    height: 500px;
+}
+#nfz{
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+.mid-position{
+    background-image: url(image/footer-bg.png);
+}
+#mum{
+    text-align: center;
+}
+
+*{
+    box-sizing: border-box;
+}
+.colom{
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+}
+.row::after{content: "";
+    display: table;
+    clear: both;
+
+}
+.third-width img{
+width: 33%;
+float: right ;
+height: 500px;
+
+}
+.mid-position{
+    height: 500px;
+}
+.box{
+    box-sizing: border-box;
+    background-color: red;
+    color: black;
+    border-radius: 5px;
+
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.last{
+    text-align: center;
+}
+.lasth{
+    text-align: center;
+    font-size: 40px;
+}
+.last-part{
+    background-image: url(image/biography-bg.png);
+}
